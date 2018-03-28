@@ -1,0 +1,16 @@
+Source: hello
+Section: misc
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: KyeongSeob Sim <ksub0912@gmail.com>
+Build-Depends: debhelper (>=9), dh-python, python3-all, python3-setuptools
+Standards-Version: 3.9.6
+Homepage: https://kssim.com
+#Vcs-Git: git://anonscm.debian.org/collab-maint/hello.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/hello.git
+
+Package: hello
+Architecture: any
+Depends: ${misc:Depends} ${python3:Depends}
+Description: sample package. 
+ ubuntu packaging workshop sample package. 
