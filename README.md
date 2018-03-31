@@ -29,3 +29,4 @@ Ubuntu 에서 Package 를 만들고, Launchpad 에 등록하는 과정을 실습
 3. [Ubuntu Package 만들기](https://www.slideshare.net/ssuser674248/ubuntu-packaging-make-package/ssuser674248/ubuntu-packaging-make-package)
     * [Ubuntu Package 만들기 PDF](https://github.com/kssim/2018-korea-ubuntu-packaging-workshop/blob/master/pdf/ubuntu_packaging_make_package.pdf)
 4. [Ubuntu Package 업로드/다운로드](https://www.slideshare.net/ssuser674248/ubuntu-packaging-deploy-package/ssuser674248/ubuntu-packaging-deploy-package)
+    * [Ubuntu Package 배포하기 PDF](https://github.com/kssim/2018-korea-ubuntu-packaging-workshop/blob/master/pdf/ubuntu_packaging_deploy.pdf)
